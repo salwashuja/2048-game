@@ -85,9 +85,13 @@ Click "Choose File" and upload the Dockerfile file you created earlier
 **3. Environment Settings**
 
 **Environment Type:** Choose "Load balanced" or "Single instance" based on your requirement.
-**Instance Type:** Choose an instance type. The default t2.micro is usually sufficient for a simple application.
 
 ![image](https://github.com/salwashuja/2048-game/assets/172596215/a9e98704-9aec-4f7e-a031-eaaebee7e0c9)
+
+
+**Instance Type:** Choose an instance type. The default t2.micro is usually sufficient for a simple application.
+
+![image](https://github.com/salwashuja/2048-game/assets/172596215/f271b504-680c-42b7-81bc-4d5f25645da7)
 
 
 **Create Environment**   
